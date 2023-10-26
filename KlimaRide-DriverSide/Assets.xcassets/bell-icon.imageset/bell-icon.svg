@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_9931" data-name="Group 9931" transform="translate(-320 -49)">
+    <rect id="Rectangle_109" data-name="Rectangle 109" width="39" height="39" rx="7.5" transform="translate(320.5 49.5)" fill="#fff" stroke="#ededed" stroke-width="1"/>
+    <g id="Iconly_Light-Outline_Notification" data-name="Iconly/Light-Outline/Notification" transform="translate(330 59)">
+      <g id="Notification" transform="translate(3 1)">
+        <path id="Combined-Shape" d="M5.82,15.181a2,2,0,0,0,1.488.71h0A2.011,2.011,0,0,0,8.8,15.18a.6.6,0,0,1,.886.8,3.191,3.191,0,0,1-2.38,1.105h0a3.181,3.181,0,0,1-2.373-1.106.6.6,0,0,1,.886-.8ZM7.347,0a5.7,5.7,0,0,1,5.9,5.32A4.065,4.065,0,0,0,13.945,7.8a4.314,4.314,0,0,1,.752,2.511c-.277,3.216-3.634,3.478-7.35,3.478S.274,13.522,0,10.357A4.351,4.351,0,0,1,.75,7.8l.125-.21A3.985,3.985,0,0,0,1.443,5.32,5.7,5.7,0,0,1,7.347,0Zm0,1.192A4.558,4.558,0,0,0,2.635,5.32a5.18,5.18,0,0,1-.864,3.089,3.141,3.141,0,0,0-.582,1.9c.133,1.5,1.122,2.286,6.158,2.286,5.008,0,6.028-.822,6.16-2.338a3.11,3.11,0,0,0-.584-1.846A5.18,5.18,0,0,1,12.06,5.32,4.558,4.558,0,0,0,7.347,1.192Z" transform="translate(0)" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

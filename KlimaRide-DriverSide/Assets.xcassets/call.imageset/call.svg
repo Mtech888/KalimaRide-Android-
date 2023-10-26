@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="49" viewBox="0 0 50 49">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="50" height="49" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_3" data-name="Repeat Grid 3" clip-path="url(#clip-path)">
+    <g transform="translate(-309 -687)">
+      <ellipse id="Ellipse_485" data-name="Ellipse 485" cx="25" cy="24.5" rx="25" ry="24.5" transform="translate(309 687)" fill="#f8f8f8"/>
+      <path id="Icon_feather-phone-call" data-name="Icon feather-phone-call" d="M13.3,4.633A3.916,3.916,0,0,1,16.4,7.727M13.3,1.5a7.049,7.049,0,0,1,6.227,6.219m-.783,6.25v2.35a1.567,1.567,0,0,1-1.708,1.567,15.5,15.5,0,0,1-6.76-2.4,15.274,15.274,0,0,1-4.7-4.7,15.5,15.5,0,0,1-2.4-6.791A1.567,1.567,0,0,1,4.733,2.283h2.35A1.567,1.567,0,0,1,8.649,3.63a10.057,10.057,0,0,0,.548,2.2,1.567,1.567,0,0,1-.352,1.653l-.995.995a12.532,12.532,0,0,0,4.7,4.7l.995-.995a1.567,1.567,0,0,1,1.653-.352,10.057,10.057,0,0,0,2.2.548A1.567,1.567,0,0,1,18.745,13.97Z" transform="translate(322.332 702)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

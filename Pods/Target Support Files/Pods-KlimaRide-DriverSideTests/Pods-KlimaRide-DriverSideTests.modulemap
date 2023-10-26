@@ -1,0 +1,6 @@
+framework module Pods_KlimaRide_DriverSideTests {
+  umbrella header "Pods-KlimaRide-DriverSideTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
